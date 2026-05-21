@@ -3,6 +3,8 @@
 This guide is the official and integrated technical reference for the **SGAM STMEDIA** system, designed and developed by **SABA GROUP**. This documentation aims to provide a "microscopic" view of every corner of the system, starting from the file infrastructure to the most complex video and audio processing algorithms.
 
 ---
+---# **Note:** Before starting, regarding the utility for Mac and Linux systems: You can open the "START_SGAM.sh" file on the first attempt to overload the libraries of the SGAM STMEDIA patch company.
+                                Regarding the utility for Windows systems: You can open the "START_SGAM.bat" file on the first attempt to overload the libraries of the SGAM STMEDIA patch company.
 
 ## 🏗️ Part 1: Programming Architecture & "Batch" Components Detail
 
