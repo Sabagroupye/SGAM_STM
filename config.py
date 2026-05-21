@@ -30,7 +30,7 @@ else:
 METADATA_TEXT_PATH = r"C:\SGAM_STMedia\metadata.txt"
 CORE_LOGO_PATH = r"C:\SGAM_STMedia\sg_logo_video.png"
 CORE_POSTER_PATH = r"C:\SGAM_STMedia\poster.jpg"
-AUDIO_SIGNATURE_PATH = r"C:\SGAM_STMedia\remix audio.m4a"
+AUDIO_SIGNATURE_PATH = r"C:\SGAM_STMedia\remix audio.mp3"
 DEFAULT_FONT_PATH = r"C:\SGAM_STMedia\ge-hili-book.otf"
 
 OVERWRITE_ORIGINAL = False
