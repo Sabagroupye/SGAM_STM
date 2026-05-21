@@ -1,0 +1,22 @@
+{
+    "mp3 128k": {
+        "card_type": "Audio Card",
+        "target_format": "MP3",
+        "bitrate": "128k",
+        "watermark_mix": "No",
+        "out_mode_str": "Flat (One Output Folder)",
+        "card_name": "mp3 128k"
+    },
+    "vid 360": {
+        "card_type": "Video Card",
+        "layers": [],
+        "target_q": "360p",
+        "fps": "25",
+        "bitrate": "500k",
+        "logo_pos_str": "Dynamic-Bounce",
+        "logo_bounce_seq": "TL,TR,BR,BL",
+        "logo_size": 9.0,
+        "logo_opac": 0.8,
+        "card_name": "vid 360"
+    }
+}
